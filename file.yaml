@@ -1,0 +1,3 @@
+version: 5
+name: hello
+extensions: cpp
